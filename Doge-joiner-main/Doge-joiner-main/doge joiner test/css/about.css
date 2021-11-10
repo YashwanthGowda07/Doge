@@ -1,0 +1,33 @@
+.about {
+  margin: 30px;
+  font-size: 40px;
+}
+
+ul {
+  margin: 40px;
+  font-size: 25px;
+  text-align: left;
+}
+
+.para {
+  color: rgb(124, 124, 124);
+  font-size: 20px;
+
+  bottom: 40px;
+  margin-top: 300px;
+}
+.btn {
+  font-size: 30px;
+  text-decoration: none;
+  border-style: none;
+color:black;
+background:rgb(18, 226, 216);
+padding: 10px;
+border-radius: 2rem;
+margin-top: 10px;
+}
+
+.btn:hover{
+  background: rgb(2, 70, 70);
+  color: white;
+}
